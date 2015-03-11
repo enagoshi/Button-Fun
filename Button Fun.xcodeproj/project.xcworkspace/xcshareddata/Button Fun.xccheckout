@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DA9E6EA0-9DBD-4C62-A74A-BE3433DFF535</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Button Fun</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>83E3E25D3ABD9B2AA3D9F386E61D55C3CE709A16</key>
+		<string>https://github.com/enagoshi/Button-Fun.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Button Fun.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>83E3E25D3ABD9B2AA3D9F386E61D55C3CE709A16</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/enagoshi/Button-Fun.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>83E3E25D3ABD9B2AA3D9F386E61D55C3CE709A16</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>83E3E25D3ABD9B2AA3D9F386E61D55C3CE709A16</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Button%20Fun</string>
+		</dict>
+	</array>
+</dict>
+</plist>
